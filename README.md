@@ -7,15 +7,13 @@ Es scraper de productos de Amazon, que permite obtener información de productos
 En el presente proyecto muestro como scrapear productos de Amazon, utilizando la librería BeautifulSoup y Requests. El proyecto permite obtener información de productos de Amazon, como nombre, precio, descripción, etc. No olvides usar el código de manera responsable y respetar los términos y condiciones de Amazon. Además, el proyecto es solo con fines educativos.
 
 ## Tutorial
-* Parte 1: <a href="https://youtu.be/4gzhKNsVi3U">https://youtu.be/4gzhKNsVi3U</a>
-* Parte 2: <a href="https://youtu.be/byFgQvzP-WU">https://youtu.be/byFgQvzP-WU</a>
-* Parte 3 (final): <a href="https://youtu.be/oUqqa15IeoY">https://youtu.be/oUqqa15IeoY</a>
+* Vídeo de Youtbe <a href="https://youtu.be/INKZfULix2M">https://youtu.be/INKZfULix2M</a>
  
 <!-- GETTING STARTED -->
 ## Tecnologías
 
 * Python
-* Libreías: BeautifulSoup, Requests, Selenium
+* Libreías: BeautifulSoup, Selenium
 
 
 ### Prerequisitos
@@ -41,7 +39,7 @@ Debe tener instalado Python en su computadora. Puede descargarlo desde el siguie
   ```
 * Ejecutar el script:
   ```sh
-  python amz_pagination.py
+  python amz_pages.py
   ```
 
 ## Finalmente
